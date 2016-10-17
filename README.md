@@ -1,5 +1,10 @@
 # Process-Scheduling
 
+Modeled Round Robin Scheduling and Completely Fair Scheduling strategies and optimized the efficiency using data structures such as binary search trees and red black tree (Fast Round Robin Scheduling and Fast Completely Fair Scheduling). The model was used to compare the strengths and weaknesses of those process scheduling strategies.(C++)
+
+It contains 1 main program and the command 'make all' will compile the entire project. Alternatively, the program may compile according to the directions below.
+
+
 ---schedulesim---
 To compile: make schedulesim
 To run: ./schedulesim <number of CPU bound processes> <number of IO bound processes> <number of cycles to simulate> 
